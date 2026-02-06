@@ -26,8 +26,7 @@ The suite consists of two primary modules:
 The following output demonstrates the tool's ability to process over 7,000 lines of telemetry and identify persistent attackers through visual bar charts.
 
 ### Global Threat Summary
-![Global Threat Intelligence Output](./a<img width="1366" height="768" alt="Screenshot from 2026-02-06 16-04-24" src="https://github.com/user-attachments/assets/4429aa0a-849f-4d19-9b27-5811137d1bbd" />
-ssets/your_master_report_screenshot.png)
+![Global Threat Intelligence Output](./<img width="1366" height="768" alt="Screenshot from 2026-02-06 16-04-24" src="https://github.com/user-attachments/assets/4429aa0a-849f-4d19-9b27-5811137d1bbd" />)
 
 *The chart above illustrates the top 5 most frequent attack sources and the distribution of attack tactics (Brute Force vs. User Enumeration).*
 3. **Install dependencies:**
