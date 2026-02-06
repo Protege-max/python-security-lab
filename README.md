@@ -18,7 +18,8 @@ The suite consists of two primary modules:
 2. **Master Aggregator (`master_report.py`):**
    - Scans the directory for all archived CSVs.
    - Uses the **Pandas** library to merge datasets and identify long-term trends.
-<img width="1305" height="586" alt="Screenshot from 2026-02-06 16-53-09" src="https://github.com/user-attachments/assets/2fe9f85b-e7e5-46df-b6f8-40024adca15a" />
+<img width="1304" height="729" alt="Screenshot from 2026-02-06 19-56-28" src="https://github.com/user-attachments/assets/a287375e-f40e-4a37-8b5b-9a6520510abd" />
+
 
   ### 🛠️ Setup & Usage
 1. **Clone the repository:**
