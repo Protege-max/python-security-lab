@@ -21,6 +21,14 @@ The suite consists of two primary modules:
   ### 🛠️ Setup & Usage
 1. **Clone the repository:**
    `git clone https://github.com/Protege-max/Python-Security-Lab.git`
+
+   ## 📊 Results & Visualization
+The following output demonstrates the tool's ability to process over 7,000 lines of telemetry and identify persistent attackers through visual bar charts.
+
+### Global Threat Summary
+![Global Threat Intelligence Output](./assets/your_master_report_screenshot.png)
+
+*The chart above illustrates the top 5 most frequent attack sources and the distribution of attack tactics (Brute Force vs. User Enumeration).*
 3. **Install dependencies:**
    `pip install pandas`
 4. **Run the analysis:**
