@@ -13,10 +13,12 @@ The suite consists of two primary modules:
 1. **Live Analyzer (`log_analyzer.py`):** - Reads the raw `auth.log` file line-by-line using Regex.
    - Generates a terminal-based **Threat Intelligence Summary**.
    - Outputs a unique, timestamped CSV report (e.g., `attack_report_20260206_1500.csv`) to prevent data overwriting.
-   
+   <img width="1302" height="670" alt="Screenshot from 2026-02-06 16-51-03" src="https://github.com/user-attachments/assets/b2517622-135b-484a-af0d-fd2f6cc4420a" />
+
 2. **Master Aggregator (`master_report.py`):**
    - Scans the directory for all archived CSVs.
    - Uses the **Pandas** library to merge datasets and identify long-term trends.
+<img width="1305" height="586" alt="Screenshot from 2026-02-06 16-53-09" src="https://github.com/user-attachments/assets/2fe9f85b-e7e5-46df-b6f8-40024adca15a" />
 
   ### 🛠️ Setup & Usage
 1. **Clone the repository:**
