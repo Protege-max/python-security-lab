@@ -20,8 +20,8 @@ The suite consists of two primary modules:
 
   ### 🛠️ Setup & Usage
 1. **Clone the repository:**
-   `git clone https://github.com/YOUR_USERNAME/Python-Security-Lab.git`
-2. **Install dependencies:**
+   `git clone https://github.com/Protege-max/Python-Security-Lab.git`
+3. **Install dependencies:**
    `pip install pandas`
-3. **Run the analysis:**
+4. **Run the analysis:**
    `python3 log_analyzer.py`
